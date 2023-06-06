@@ -3,13 +3,14 @@
 Title : Loading Bar using HTML, CSS
 
 Description : The progress bar is an important element in the web, the progress bar can be used for downloading, marks obtained, 
-skill measuring unit, etc. To create a progress bar we can use HTML and CSS. To make that progress bar responsive you will need JavaScript.
+skill measuring unit, etc. To create a progress bar we can use HTML and CSS. To make that progress bar 
+responsive you will need JavaScript.
 
 File structure : 
 1. Loading_Bar.html
 2. Loading_Bar.css
 
-Coding : https://github.com/Bhuvanagsp2/Loading_Bar.git
+Source Code : https://github.com/Bhuvanagsp2/Loading_Bar.git
 Click the above link to copy the code
 
 YouTube : https://www.youtube.com/channel/UCVb7luKMbAeBI8kO6JG2Eig
